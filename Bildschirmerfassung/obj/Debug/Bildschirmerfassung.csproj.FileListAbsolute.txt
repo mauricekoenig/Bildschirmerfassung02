@@ -1,0 +1,10 @@
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.csproj.AssemblyReference.cache
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.csproj.SuggestedBindingRedirects.cache
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.ProjectInstaller.resources
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.csproj.GenerateResource.cache
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.csproj.CoreCompileInputs.cache
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\bin\Debug\Bildschirmerfassung.exe.config
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\bin\Debug\Bildschirmerfassung.exe
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\bin\Debug\Bildschirmerfassung.pdb
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.exe
+C:\Users\maurice.könig\Desktop\Projekte\Bildschirmerfassung\Bildschirmerfassung\obj\Debug\Bildschirmerfassung.pdb
